@@ -1,6 +1,6 @@
 baseURL: "https://raihan-faza.github.io"
 theme: "terminalcv"
-title: "terminalcv"
+title: "Raihan | Portfolio"
 
 params:
   version: '2.0.0'
@@ -48,7 +48,7 @@ params:
       location: "Sleman Regency, Special Region of Yogyakarta"
       email: "raihanfazasabiqr@gmail.com"
       description: |
-          Welcome to my digital corner! I’m a developer, learner, and contrarian passionate about building impactful web applications. My journey in tech is fueled by curiosity and the joy of problem-solving.
+          Welcome to my digital corner! I’m a developer, learner, and college student passionate about building impactful web applications. My journey in tech is fueled by curiosity and the joy of problem-solving.
 
           I specialize in backend development with Django, leveraging its power to craft robust, scalable applications. Along the way, I’ve dabbled in pentesting for security insights, explored the fascinating world of machine learning, and embraced responsive frontend design with tools like Bootstrap.
 
@@ -113,11 +113,16 @@ params:
     - title: PHR Application
       color: green
       link: https://github.com/raihan-faza/welllahh
-      description: Personal Health Application to track your health condition and daily calorie tracking. I contributed in making some backend functionality and integrating some backend with frontend.
+      description: Personal Health Application to track your health condition and daily calorie tracking. I contributed in making some backend functionality and integrating some backend with frontend. Created using django.
 
     - title: Cloud Application
       color: green
       link: https://github.com/raihan-faza/project-cloud
-      description: Docker as a Service application where you can rent a docker container using pay as you go. I contributed by developing api for docker container operation as a code.
-
+      description: Docker as a Service application where you can rent a docker container using pay as you go. I contributed by developing api for docker container operation as a code. Created using golang.
+  
+    - title: Ecommerce Application
+      color: green
+      link: https://github.com/Workshop-Pengembangan-Perangkat-Lunak/ecoms-wrpl
+      description: Ecommerce application created using django.
+      link: https://https://github.com/Workshop-Pengembangan-Perangkat-Lunak/ecoms-wrpl
 
